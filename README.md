@@ -67,9 +67,9 @@ This enables **proactive farm management** and **maximizes productivity**.
 
 **Frontend:** React + Vite  
 **Backend:** Flask (Python)  
-**AI/ML:** Scikit-learn, TensorFlow/PyTorch, Pandas, NumPy  
-**Database:** MongoDB Atlas / PostgreSQL  
-**Reporting:** ReportLab / PDFKit  
+**AI/ML:** Scikit-learn, TensorFlow, Pandas, NumPy  
+**Database:** MongoDB Atlas   
+
 
 ---
 
